@@ -1,4 +1,4 @@
-# Fundamentals of Data Science (GSND 5345)"
+# Fundamentals of Data Science (GSND 5345)
 ## Spring (Jan-Feb), 2026
 
 ### COURSE DESCRIPTION:
